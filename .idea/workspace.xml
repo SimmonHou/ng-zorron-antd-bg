@@ -13,39 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="antd.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ng-zorro-antd/esm5/antd.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="31570" column="21" lean-forward="true" selection-start-line="31570" selection-start-column="21" selection-end-line="31570" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#ng-template#0;n#!!top" expanded="true" />
-                <element signature="e#1460#1466#0" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#ng-template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#p#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#ng-template#4;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#ng-template#2;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -76,26 +44,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/ng-zorro-antd/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/a11y/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/accordion/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/bidi/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/coercion/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/collections/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/keycodes/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/layout/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/observers/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/overlay/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/platform/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/portal/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/scrolling/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/stepper/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/node_modules/@angular/cdk/table/package.json" />
-      <path value="$PROJECT_DIR$/ng-zorro-antd/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -119,6 +72,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RunDashboard">
@@ -143,15 +97,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530693621148</updated>
-      <workItem from="1530693622261" duration="523000" />
+      <workItem from="1530693622261" duration="1184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="523000" />
+    <option name="totallyTimeSpent" value="1184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1849315" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -181,8 +136,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ng-zorro-antd/esm5/antd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="31570" column="21" lean-forward="true" selection-start-line="31570" selection-start-column="21" selection-end-line="31570" selection-end-column="21" />
+        <state relative-caret-position="688">
+          <caret line="31577" column="21" lean-forward="true" selection-start-line="31577" selection-start-column="21" selection-end-line="31577" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#ng-template#0;n#!!top" expanded="true" />
             <element signature="e#1460#1466#0" expanded="true" />
