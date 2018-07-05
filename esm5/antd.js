@@ -31556,7 +31556,7 @@ var NzTreeService = /** @class */ (function () {
      */
     function (e) {
         var clientY = e.clientY;
-        var dragElement = e.srcElement ? e.srcElement : e.currentTarget;
+        var dragElement = e.srcElement ? e.srcElement : e.rangeParent;
         var _a = dragElement.getBoundingClientRect(), top = _a.top, bottom = _a.bottom, height = _a.height;
         var /** @type {?} */ des = Math.max(height * this.DRAG_SIDE_RANGE, this.DRAG_MIN_GAP);
         if (clientY <= top + des) {
@@ -31602,8 +31602,13 @@ var NzTreeService = /** @class */ (function () {
             'node': node,
             'event': event
         };
+
         switch (eventName) {
             case 'dragstart':
+	            if(!event.srcElement){
+		            console.log('drag--->',event);
+		            event.dataTransfer.setData('eventName', 'dragNode');
+	            }
             case 'dragenter':
             case 'dragover':
             case 'dragleave':
