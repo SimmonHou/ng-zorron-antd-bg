@@ -31606,7 +31606,6 @@ var NzTreeService = /** @class */ (function () {
         switch (eventName) {
             case 'dragstart':
 	            if(!event.srcElement){
-		            console.log('drag--->',event);
 		            event.dataTransfer.setData('eventName', 'dragNode');
 	            }
             case 'dragenter':
